@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0,I Lived in Heaven
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/ILivedInHeaven.mp3
+#EXTINF:0,I Will Follow God's Plan For Me
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/IWillFollowGodsPlanForMe.mp3
+#EXTINF:0,He Sent His Son
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/HeSentHisSon.mp3
+#EXTINF:165,Follow the Prophet
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/FollowTheProphet.mp3
+#EXTINF:243,I Will Be Valiant
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/IWillBeValiant.mp3
+#EXTINF:103,I'm Trying to be like Jesus
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/ImTryingToBeLikeJesus.mp3
+#EXTINF:78,Search, Ponder and Pray
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/SearchPonderAndPray.mp3
+#EXTINF:0,I Love to See the Temple
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/ILoveToSeeTheTemple.mp3
+#EXTINF:0,My Redeemer Lives
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/MyRedeemerLives.mp3
+#EXTINF:0,I Will Walk With Jesus
+#EXTVLCOPT:network-caching=1000
+https://github.com/drhyrum/2022-primary-program/raw/main/list/IWillWalkWithJesus.mp3
