@@ -1,6 +1,6 @@
 ## 2022 Primary Program Playlist
 
-### Play audio in browser (no ads)
+### Play audio in browser
 
 <style>
     #playlist{
@@ -22,12 +22,6 @@
 
 <ul id="playlist">
 
-#EXTINF:78,Search, Ponder and Pray
-
-#EXTINF:0,I Love to See the Temple
-#EXTINF:0,My Redeemer Lives
-#EXTINF:0,I Will Walk With Jesus
-
 <li class="current-song"><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/ILivedInHeaven.mp3">I Lived in Heaven</a></li>
 
 <li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/IWillFollowGodsPlanForMe.mp3">I Will Follow God's Plan For Me</a></li>
@@ -41,8 +35,6 @@
 
 <li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/ImTryingToBeLikeJesus.mp3
 ">I'm Trying To Be Like Jesus</a></li>
-
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/I'm%20Trying%20to%20Be%20Like%20Jesus%20Lyric%20Video.mp3">I'm Trying to Be Like Jesus</a></li>
 
 <li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/SearchPonderAndPray.mp3">Search, Ponder and Pray</a></li>
 
