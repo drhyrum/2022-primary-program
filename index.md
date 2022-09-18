@@ -29,7 +29,7 @@
 <li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/HeSentHisSon.mp3
 ">He Sent His Son</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/FollowTheProphet.mp3">Follow the Prophet - verses 1 (Adam), 3 (Noah), 5 (Moses) and 9 (today)</a></li>
+<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/FollowTheProphet-clipped.mp3">Follow the Prophet - verses 1 (Adam), 3 (Noah), 5 (Moses) and 9 (today)</a></li>
 
 <li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/IWillBeValiant.mp3">I Will Be Valiant</a></li>
 
